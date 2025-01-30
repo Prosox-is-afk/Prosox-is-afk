@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Node.js**
 
-- 📫 How to reach me **prosox2k@gmail.com**
+- 📫 How to reach me **pierreburnier07@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
 
